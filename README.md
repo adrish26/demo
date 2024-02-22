@@ -1,3 +1,4 @@
 # demo
-This is my first repository
-Author - Adrish Mukherjee
+This is my first repository.
+<br>
+Author - Adrish Mukherjee.
